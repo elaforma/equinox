@@ -1,0 +1,11 @@
+[package]
+name = "equinox"
+description = "Reserved for a side project of mine."
+version = "0.0.0"
+authors = ["Martin Formanek <martin.formanek@outlook.com>"]
+edition = "2018"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
